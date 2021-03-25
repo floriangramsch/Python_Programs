@@ -1,152 +1,28 @@
-venait (venir)	{{c1::Kommen Sie}}	Voilà le meilleur portrait que, plus tard, j’ai réussi à faire de lui CHAPITRE III Il me fallut longtemps pour comprendre d’où il <b><u>venait</u></b>. <br>
-fallut (falloir)	{{c1::m�ssen, zu ... haben}}	Voilà le meilleur portrait que, plus tard, j’ai réussi à faire de lui CHAPITRE III Il me <b><u>fallut</u></b> longtemps pour comprendre d’où il venait. <br>
-calcul (calcul)	{{c1::Berechnung}}	Mon dessin numéro 2 était comme ça : Les grandes personnes m’ont conseillé de laisser de côté les dessins de serpents boas ouverts  ou  fermés, et de m’intéresser plutôt à la géographie, à l’histoire, au <b><u>calcul</u></b> et à la grammaire. <br>
-fis (faire)	{{c1::machen}}	Il s’est endormi… Et c’est ainsi que je <b><u>fis</u></b> la connaissance du petit prince. <br>
-bridge (bridge)	{{c1::Br�cke}}	Je lui parlais de <b><u>bridge</u></b>, de golf, de politique et de cravates. <br>
-expérience (expérience)	{{c1::Erfahrung}}	Quand  j’en  rencontrais  une  qui  me  paraissait  un  peu  lu- cide, je faisais l’<b><u>expérience</u></b> sur elle de mon dessin numéro 1 que j’ai  toujours  conservé.  <br>
-habitée (habité)	{{c1::bewohnt}}	Le premier soir je me suis donc endormi sur le sable à mille milles de toute terre <b><u>habitée</u></b>. <br>
-puis (puis)	{{c1::dann}}	J’ai  alors  dessiné l’intérieur du serpent boa, afin que les grandes personnes <b><u>puis</u></b>- sent comprendre. <br>
-bonhomme (bonhomme)	{{c1::Gef�hrte}}	Et j’ai vu un petit <b><u>bonhomme</u></b> tout à fait extraordinaire qui me considérait gravement. <br>
-peur (peur)	{{c1::Angst}}	Il était comme ça : J’ai montré mon chef-d’œuvre aux grandes personnes et je leur ai demandé si mon dessin leur faisait <b><u>peur</u></b>. <br>
-meilleur (meilleur)	{{c1::besser}}	1) Voilà le <b><u>meilleur</u></b> portrait que, plus tard, j’ai réussi à faire de lui CHAPITRE III Il me fallut longtemps pour comprendre d’où il venait. <br>2) Voilà le <b><u>meilleur</u></b> portrait que, plus tard, j’ai réussi à faire de lui. <br>
-connaissance (connaissance)	{{c1::Wissen}}	Il s’est endormi… Et c’est ainsi que je fis la <b><u>connaissance</u></b> du petit prince. <br>
-pencha (pencher)	{{c1::lehnen}}	Il <b><u>pencha</u></b> la tête vers le dessin : –    Pas si petit que ça… Tiens ! <br>
-donné (donné)	{{c1::gegeben}}	Je t’ai <b><u>donné</u></b> un tout petit mouton. <br>
-sûrement (sûrement)	{{c1::sicherlich}}	Crois-tu qu’il faille beaucoup d’herbe à ce mouton ? –    Pourquoi ? –    Parce que chez moi c’est tout petit… –    Ça suffira <b><u>sûrement</u></b>. <br>
-suffira (suffire)	{{c1::gen�gen}}	Crois-tu qu’il faille beaucoup d’herbe à ce mouton ? –    Pourquoi ? –    Parce que chez moi c’est tout petit… –    Ça <b><u>suffira</u></b> sûrement. <br>
-herbe (herbe)	{{c1::Gras}}	Crois-tu qu’il faille beaucoup d’<b><u>herbe</u></b> à ce mouton ? –    Pourquoi ? –    Parce que chez moi c’est tout petit… –    Ça suffira sûrement. <br>
-faille (faille)	{{c1::Fehler}}	Crois-tu qu’il <b><u>faille</u></b> beaucoup d’herbe à ce mouton ? –    Pourquoi ? –    Parce que chez moi c’est tout petit… –    Ça suffira sûrement. <br>
-Crois (croire)	{{c1::glauben}}	<b><u>Crois</u></b>-tu qu’il faille beaucoup d’herbe à ce mouton ? –    Pourquoi ? –    Parce que chez moi c’est tout petit… –    Ça suffira sûrement. <br>
-lançai (lancer)	{{c1::starten}}	Et je <b><u>lançai</u></b> : –    Ça c’est la caisse. <br>
-griffonnai (griffonner)	{{c1::kritzeln}}	Alors, faute de patience, comme j’avais hâte de commencer le démontage de mon moteur, je <b><u>griffonnai</u></b> ce dessin-ci. <br>
-commencer (commencer)	{{c1::anfangen}}	Alors, faute de patience, comme j’avais hâte de <b><u>commencer</u></b> le démontage de mon moteur, je griffonnai ce dessin-ci. <br>
-hâte (hâte)	{{c1::Eile}}	Alors, faute de patience, comme j’avais <b><u>hâte</u></b> de commencer le démontage de mon moteur, je griffonnai ce dessin-ci. <br>
-vieux (vieux)	{{c1::alt}}	Il a des cornes… Je refis donc encore mon dessin : Mais il fut refusé, comme les précédents : –    Celui-là est trop <b><u>vieux</u></b>. <br>
-précédents (précédent)	{{c1::Bisherige}}	Il a des cornes… Je refis donc encore mon dessin : Mais il fut refusé, comme les <b><u>précédents</u></b> : –    Celui-là est trop vieux. <br>
-encore (encore)	{{c1::nochmal}}	Il a des cornes… Je refis donc <b><u>encore</u></b> mon dessin : Mais il fut refusé, comme les précédents : –    Celui-là est trop vieux. <br>
-bélier (bélier)	{{c1::Widder}}	Je dessinai : Mon ami sourit gentiment, avec indulgence : –    Tu vois bien… ce n’est pas un mouton, c’est un <b><u>bélier</u></b>. <br>
-vois (voir)	{{c1::sehen}}	Je dessinai : Mon ami sourit gentiment, avec indulgence : –    Tu <b><u>vois</u></b> bien… ce n’est pas un mouton, c’est un bélier. <br>
-indulgence (indulgence)	{{c1::Genuss}}	Je dessinai : Mon ami sourit gentiment, avec <b><u>indulgence</u></b> : –    Tu vois bien… ce n’est pas un mouton, c’est un bélier. <br>
-sourit (sourire)	{{c1::L�cheln}}	Je dessinai : Mon ami <b><u>sourit</u></b> gentiment, avec indulgence : –    Tu vois bien… ce n’est pas un mouton, c’est un bélier. <br>
-malade (malade)	{{c1::krank}}	Celui-là est déjà très <b><u>malade</u></b>. <br>
-attentivement (attentivement)	{{c1::aufmerksam}}	Il regarda <b><u>attentivement</u></b>, puis : –    Non ! <br>
-besoin (besoin)	{{c1::brauchen}}	1) Elles ont toujours <b><u>besoin</u></b> d’explications. <br>2) J’ai <b><u>besoin</u></b> d’un mouton. <br>
-stupéfait (stupéfait)	{{c1::erstaunt}}	Et je fus <b><u>stupéfait</u></b> d’entendre le petit bonhomme me ré- pondre : –    Non ! <br>
-entendre (entendre)	{{c1::h�ren}}	Et je fus stupéfait d’<b><u>entendre</u></b> le petit bonhomme me ré- pondre : –    Non ! <br>
-fus (être)	{{c1::Sein}}	Et je <b><u>fus</u></b> stupéfait d’entendre le petit bonhomme me ré- pondre : –    Non ! <br>
-un (un)	{{c1::ein}}	Comme je n’avais jamais dessiné <b><u>un</u></b> mouton je refis, pour lui, l’<b><u>un</u></b> des deux seuls dessins dont j’étais capable. <br>
-dont (dont)	{{c1::deren}}	Comme je n’avais jamais dessiné un mouton je refis, pour lui, l’un des deux seuls dessins <b><u>dont</u></b> j’étais capable. <br>
-refis (refaire)	{{c1::Remake}}	Comme je n’avais jamais dessiné un mouton je <b><u>refis</u></b>, pour lui, l’un des deux seuls dessins dont j’étais capable. <br>
-mauvaise (mauvais)	{{c1::Schlecht}}	Mais je me rappelai alors que j’avais surtout étudié la géographie, l’histoire, le calcul et la grammaire et je dis au petit bonhomme (avec un peu de <b><u>mauvaise</u></b> humeur) que je ne savais pas dessiner. <br>
-surtout (surtout)	{{c1::meist}}	Mais je me rappelai alors que j’avais <b><u>surtout</u></b> étudié la géographie, l’histoire, le calcul et la grammaire et je dis au petit bonhomme (avec un peu de mauvaise humeur) que je ne savais pas dessiner. <br>
-rappelai (rappeler)	{{c1::R�ckrufen}}	Mais je me <b><u>rappelai</u></b> alors que j’avais surtout étudié la géographie, l’histoire, le calcul et la grammaire et je dis au petit bonhomme (avec un peu de mauvaise humeur) que je ne savais pas dessiner. <br>
-stylographe (stylographe)	{{c1::Stylograph}}	Aussi absurde que cela me semblât à mille milles de tous les endroits habités et en danger de mort, je sortis de ma poche une feuille de papier et un <b><u>stylographe</u></b>. <br>
-feuille (feuille)	{{c1::Blatt}}	Aussi absurde que cela me semblât à mille milles de tous les endroits habités et en danger de mort, je sortis de ma poche une <b><u>feuille</u></b> de papier et un stylographe. <br>
-sortis (sortir)	{{c1::Ausfahrt}}	Aussi absurde que cela me semblât à mille milles de tous les endroits habités et en danger de mort, je <b><u>sortis</u></b> de ma poche une feuille de papier et un stylographe. <br>
-endroits (endroit)	{{c1::vor dem Gesetz}}	Aussi absurde que cela me semblât à mille milles de tous les <b><u>endroits</u></b> habités et en danger de mort, je sortis de ma poche une feuille de papier et un stylographe. <br>
-semblât (sembler)	{{c1::erscheinen}}	Aussi absurde que cela me <b><u>semblât</u></b> à mille milles de tous les endroits habités et en danger de mort, je sortis de ma poche une feuille de papier et un stylographe. <br>
-ose (oser)	{{c1::Wagen}}	Et il me répéta alors, tout doucement, comme une ch<b><u>ose</u></b> très sérieuse : –    S’il vous plaît… dessine-moi un mouton… Quand le mystère est trop impressionnant, on n’<b><u>ose</u></b> pas dé- sobéir. <br>
-impressionnant (impressionnant)	{{c1::beeindruckend}}	Et il me répéta alors, tout doucement, comme une chose très sérieuse : –    S’il vous plaît… dessine-moi un mouton… Quand le mystère est trop <b><u>impressionnant</u></b>, on n’ose pas dé- sobéir. <br>
-Quand (quand)	{{c1::wann}}	Et il me répéta alors, tout doucement, comme une chose très sérieuse : –    S’il vous plaît… dessine-moi un mouton… <b><u>Quand</u></b> le mystère est trop impressionnant, on n’ose pas dé- sobéir. <br>
-doucement (doucement)	{{c1::langsam}}	Et il me répéta alors, tout <b><u>doucement</u></b>, comme une chose très sérieuse : –    S’il vous plaît… dessine-moi un mouton… Quand le mystère est trop impressionnant, on n’ose pas dé- sobéir. <br>
-répéta (répéter)	{{c1::wiederholen}}	Et il me <b><u>répéta</u></b> alors, tout doucement, comme une chose très sérieuse : –    S’il vous plaît… dessine-moi un mouton… Quand le mystère est trop impressionnant, on n’ose pas dé- sobéir. <br>
-enfin (enfin)	{{c1::endlich}}	Quand je réussis <b><u>enfin</u></b> à parler, je lui dis : –    Mais… qu’est-ce que tu fais là ? <br>
-perdu (perdu)	{{c1::hat verloren}}	Il n’avait en rien l’apparence d’un enfant <b><u>perdu</u></b> au milieu du désert, à mille milles de toute région habitée. <br>
-soif (soif)	{{c1::Durst}}	Or mon petit bonhomme ne me semblait ni égaré, ni mort de fatigue, ni mort de faim, ni mort de <b><u>soif</u></b>, ni mort de peur. <br>
-égaré (égaré)	{{c1::Geparkt}}	1) C’est très utile, si l’on est <b><u>égaré</u></b> pendant la nuit. <br>2) Or mon petit bonhomme ne me semblait ni <b><u>égaré</u></b>, ni mort de fatigue, ni mort de faim, ni mort de soif, ni mort de peur. <br>
-semblait (sembler)	{{c1::erscheinen}}	Or mon petit bonhomme ne me <b><u>semblait</u></b> ni égaré, ni mort de fatigue, ni mort de faim, ni mort de soif, ni mort de peur. <br>
-Or (or)	{{c1::Gold}}	<b><u>Or</u></b> mon petit bonhomme ne me semblait ni égaré, ni mort de fatigue, ni mort de faim, ni mort de soif, ni mort de peur. <br>
-étonnement (étonnement)	{{c1::Erstaunen}}	Je regardai donc cette apparition avec des yeux tout ronds d’<b><u>étonnement</u></b>. <br>
-ronds (rond)	{{c1::runden}}	Je regardai donc cette apparition avec des yeux tout <b><u>ronds</u></b> d’étonnement. <br>
-apparition (apparition)	{{c1::Aussehen}}	Je regardai donc cette <b><u>apparition</u></b> avec des yeux tout ronds d’étonnement. <br>
-sauf (sauf)	{{c1::au�er}}	J’avais été décou- ragé dans ma carrière de peintre par les grandes personnes, à l’âge de six ans, et je n’avais rien appris à dessiner, <b><u>sauf</u></b> les boas fermés et les boas ouverts. <br>
-appris (apprendre)	{{c1::lernen}}	1) J’ai donc dû choisir un autre métier et j’ai <b><u>appris</u></b> à piloter des avions. <br>2) J’avais été décou- ragé dans ma carrière de peintre par les grandes personnes, à l’âge de six ans, et je n’avais rien <b><u>appris</u></b> à dessiner, sauf les boas fermés et les boas ouverts. <br>
-vissant (visser)	{{c1::Schrauben}}	1) Mais mon dessin, bien sûr, est beaucoup moins ra- <b><u>vissant</u></b> que le modèle. <br>2) Mais mon dessin, bien sûr, est beaucoup moins ra- <b><u>vissant</u></b> que le modèle. <br>
-moins (moins)	{{c1::Weniger}}	Mais mon dessin, bien sûr, est beaucoup <b><u>moins</u></b> ra- vissant que le modèle. <br>
-lui (lui)	{{c1::ihm}}	Voilà le meilleur portrait que, plus tard, j’ai réussi à faire de <b><u>lui</u></b>. <br>
-tard (tard)	{{c1::sp�t}}	Voilà le meilleur portrait que, plus <b><u>tard</u></b>, j’ai réussi à faire de lui. <br>
-gravement (gravement)	{{c1::Ernsthaft}}	Et j’ai vu un petit bonhomme tout à fait extraordinaire qui me considérait <b><u>gravement</u></b>. <br>
-considérait (considérer)	{{c1::Erw�gen}}	Et j’ai vu un petit bonhomme tout à fait extraordinaire qui me <b><u>considérait</u></b> gravement. <br>
-tout à fait (tout à fait)	{{c1::absolut}}	Et j’ai vu un petit bonhomme <b><u>tout à fait</u></b> extraordinaire qui me considérait gravement. <br>
-frotté (frotter)	{{c1::schrubben}}	J’ai bien <b><u>frotté</u></b> mes yeux. <br>
-foudre (foudre)	{{c1::Blitz}}	Elle disait : –    S’il vous plaît… dessine-moi un mouton ! –    Hein ! –    Dessine-moi un mouton… J’ai sauté sur mes pieds comme si j’avais été frappé par la <b><u>foudre</u></b>. <br>
-frappé (frappé)	{{c1::schlagen}}	Elle disait : –    S’il vous plaît… dessine-moi un mouton ! –    Hein ! –    Dessine-moi un mouton… J’ai sauté sur mes pieds comme si j’avais été <b><u>frappé</u></b> par la foudre. <br>
-sauté (sauté)	{{c1::sprang}}	Elle disait : –    S’il vous plaît… dessine-moi un mouton ! –    Hein ! –    Dessine-moi un mouton… J’ai <b><u>sauté</u></b> sur mes pieds comme si j’avais été frappé par la foudre. <br>
-réveillé (réveiller)	{{c1::aufwachen}}	Alors vous imaginez ma surprise, au lever du jour, quand une drôle de petite voix m’a <b><u>réveillé</u></b>. <br>
-milieu (milieu)	{{c1::Mitte}}	J’étais bien plus isolé qu’un nau- fragé sur un radeau au <b><u>milieu</u></b> de l’Océan. <br>
-radeau (radeau)	{{c1::Flo�}}	J’étais bien plus isolé qu’un nau- fragé sur un <b><u>radeau</u></b> au milieu de l’Océan. <br>
-donc (donc)	{{c1::so}}	1) J’ai <b><u>donc</u></b> dû choisir un autre métier et j’ai appris à piloter des avions. <br>2) Le premier soir je me suis <b><u>donc</u></b> endormi sur le sable à mille milles de toute terre habitée. <br>
-sable (sable)	{{c1::Sand}}	Le premier soir je me suis donc endormi sur le <b><u>sable</u></b> à mille milles de toute terre habitée. <br>
-endormi (endormi)	{{c1::Schlafen}}	Le premier soir je me suis donc <b><u>endormi</u></b> sur le sable à mille milles de toute terre habitée. <br>
-peine (peine)	{{c1::Schmerzen}}	J’avais à <b><u>peine</u></b> de l’eau à boire pour huit jours. <br>
-avais (avoir)	{{c1::haben}}	Et comme je n’<b><u>avais</u></b> avec moi ni mécanicien, ni passagers, je me préparai à essayer de réussir, tout seul, une réparation difficile. <br>
-passagers (passager)	{{c1::Passagier}}	Et comme je n’avais avec moi ni mécanicien, ni <b><u>passagers</u></b>, je me préparai à essayer de réussir, tout seul, une réparation difficile. <br>
-cassé (cassé)	{{c1::gebrochen}}	Quelque chose s’était <b><u>cassé</u></b> dans mon moteur. <br>
-vécu (vécu)	{{c1::lebte}}	1) J’ai beaucoup <b><u>vécu</u></b> chez les grandes per- sonnes. <br>2) CHAPITRE II J’ai ainsi <b><u>vécu</u></b> seul, sans personne avec qui parler vérita- blement, jusqu’à une panne dans le désert du Sahara, il y a six ans. <br>
-réussir (réussir)	{{c1::erfolgreich sein}}	Et comme je n’avais avec moi ni mécanicien, ni passagers, je me préparai à essayer de <b><u>réussir</u></b>, tout seul, une réparation difficile. <br>
-essayer (essayer)	{{c1::Versuchen}}	Et comme je n’avais avec moi ni mécanicien, ni passagers, je me préparai à <b><u>essayer</u></b> de réussir, tout seul, une réparation difficile. <br>
-préparai (préparer)	{{c1::bereiten}}	Et comme je n’avais avec moi ni mécanicien, ni passagers, je me <b><u>préparai</u></b> à essayer de réussir, tout seul, une réparation difficile. <br>
-vierges (vierge)	{{c1::Jungfrau}}	» Alors je ne lui parlais ni de serpents boas, ni de fo- rêts <b><u>vierges</u></b>, ni d’étoiles. <br>
-portée (portée)	{{c1::Umfang}}	Je me mettais à sa <b><u>portée</u></b>. <br>
-mettais (mettre)	{{c1::stellen}}	Je me <b><u>mettais</u></b> à sa portée. <br>
-paraissait (paraître)	{{c1::erscheinen}}	Quand  j’en  rencontrais  une  qui  me  <b><u>paraissait</u></b>  un  peu  lu- cide, je faisais l’expérience sur elle de mon dessin numéro 1 que j’ai  toujours  conservé.  <br>
-vues (vu)	{{c1::gesehen}}	Je les ai <b><u>vues</u></b> de très près. <br>
-amélioré (améliorer)	{{c1::verbessern}}	Ça n’a pas trop <b><u>amélioré</u></b> mon opinion. <br>
-près (près)	{{c1::nahe}}	Je les ai vues de très <b><u>près</u></b>. <br>
-tas (tas)	{{c1::Haufen}}	J’ai ainsi eu, au cours de ma vie, des <b><u>tas</u></b> de contacts avec des <b><u>tas</u></b> de gens sérieux. <br>
-cours (cours)	{{c1::Klassen}}	J’ai ainsi eu, au <b><u>cours</u></b> de ma vie, des tas de contacts avec des tas de gens sérieux. <br>
-reconnaître (reconnaître)	{{c1::erkenne}}	Je savais <b><u>reconnaître</u></b>, du premier coup d’œil, la Chine de l’Arizona. <br>
-savais (savoir)	{{c1::kennt}}	Je <b><u>savais</u></b> reconnaître, du premier coup d’œil, la Chine de l’Arizona. <br>
-servi (servi)	{{c1::serviert}}	Et la géo- graphie, c’est exact, m’a beaucoup <b><u>servi</u></b>. <br>
-partout (partout)	{{c1::�berall}}	J’ai volé un peu <b><u>partout</u></b> dans le monde. <br>
-volé (voler)	{{c1::stehlen}}	J’ai <b><u>volé</u></b> un peu partout dans le monde. <br>
-piloter (piloter)	{{c1::Pilot}}	J’ai donc dû choisir un autre métier et j’ai appris à <b><u>piloter</u></b> des avions. <br>
-ainsi (ainsi)	{{c1::so}}	C’est <b><u>ainsi</u></b> que j’ai abandonné, à l’âge de six ans, une magnifique carrière de peintre. <br>
-côté (côté)	{{c1::Seite}}	Mon dessin numéro 2 était comme ça : Les grandes personnes m’ont conseillé de laisser de <b><u>côté</u></b> les dessins de serpents boas ouverts  ou  fermés, et de m’intéresser plutôt à la géographie, à l’histoire, au calcul et à la grammaire. <br>
-conseillé (conseillé)	{{c1::empfohlen}}	Mon dessin numéro 2 était comme ça : Les grandes personnes m’ont <b><u>conseillé</u></b> de laisser de côté les dessins de serpents boas ouverts  ou  fermés, et de m’intéresser plutôt à la géographie, à l’histoire, au calcul et à la grammaire. <br>
-toujours (toujours)	{{c1::immer}}	Elles ont <b><u>toujours</u></b> besoin d’explications. <br>
-sent (sentir)	{{c1::Gef�hl}}	J’ai  alors  dessiné l’intérieur du serpent boa, afin que les grandes personnes puis- <b><u>sent</u></b> comprendre. <br>
-afin que (afin)	{{c1::zu}}	J’ai  alors  dessiné l’intérieur du serpent boa, <b><u>afin que</u></b> les grandes personnes puis- sent comprendre. <br>
-afin (afin)	{{c1::zu}}	J’ai  alors  dessiné l’intérieur du serpent boa, <b><u>afin</u></b> que les grandes personnes puis- sent comprendre. <br>
-alors (alors)	{{c1::so}}	J’ai  <b><u>alors</u></b>  dessiné l’intérieur du serpent boa, afin que les grandes personnes puis- sent comprendre. <br>
-dessiné (dessiné)	{{c1::gezeichnet}}	J’ai  alors  <b><u>dessiné</u></b> l’intérieur du serpent boa, afin que les grandes personnes puis- sent comprendre. <br>
-intérieur (intérieur)	{{c1::Innere}}	J’ai  alors  dessiné l’<b><u>intérieur</u></b> du serpent boa, afin que les grandes personnes puis- sent comprendre. <br>
-ferait (faire)	{{c1::machen}}	Elles m’ont répondu : « Pourquoi un chapeau  <b><u>ferait</u></b>-il  peur ? <br>
-œuvre (œuvre)	{{c1::Arbeit}}	Il était comme ça : J’ai montré mon chef-d’<b><u>œuvre</u></b> aux grandes personnes et je leur ai demandé si mon dessin leur faisait peur. <br>
-tracer (tracer)	{{c1::Spur}}	» J’ai  alors  beaucoup  réfléchi  sur  les  aventures  de  la  jungle et,  à  mon  tour,  j’ai  réussi,  avec  un  crayon  de  couleur,  à  <b><u>tracer</u></b> mon premier dessin. <br>
-réussi (réussi)	{{c1::erfolgreich}}	» J’ai  alors  beaucoup  réfléchi  sur  les  aventures  de  la  jungle et,  à  mon  tour,  j’ai  <b><u>réussi</u></b>,  avec  un  crayon  de  couleur,  à  tracer mon premier dessin. <br>
-réfléchi (réfléchi)	{{c1::nachdenklich}}	» J’ai  alors  beaucoup  <b><u>réfléchi</u></b>  sur  les  aventures  de  la  jungle et,  à  mon  tour,  j’ai  réussi,  avec  un  crayon  de  couleur,  à  tracer mon premier dessin. <br>
-bouger (bouger)	{{c1::Bewegung}}	Ensuite ils ne peuvent plus <b><u>bouger</u></b> et ils dorment pendant les six mois de leur digestion. <br>
-peuvent (pouvoir)	{{c1::Leistung}}	Ensuite ils ne <b><u>peuvent</u></b> plus bouger et ils dorment pendant les six mois de leur digestion. <br>
-entière (entier)	{{c1::ganze}}	On disait dans le livre : « Les serpents boas avalent leur proie tout <b><u>entière</u></b>, sans la mâcher. <br>
-Ensuite (ensuite)	{{c1::dann}}	<b><u>Ensuite</u></b> ils ne peuvent plus bouger et ils dorment pendant les six mois de leur digestion. <br>
-mâcher (mâcher)	{{c1::kauen}}	On disait dans le livre : « Les serpents boas avalent leur proie tout entière, sans la <b><u>mâcher</u></b>. <br>
-proie (proie)	{{c1::Beute}}	On disait dans le livre : « Les serpents boas avalent leur <b><u>proie</u></b> tout entière, sans la mâcher. <br>
-dessin (dessin)	{{c1::Zeichnung}}	Voilà la copie du <b><u>dessin</u></b>. <br>
-boa (boa)	{{c1::Boa}}	Ça représentait un serpent <b><u>boa</u></b> qui avalait un fauve. <br>
-copie (copie)	{{c1::Kopieren}}	Voilà la <b><u>copie</u></b> du dessin. <br>
-fauve (fauve)	{{c1::Wilde Katze}}	Ça représentait un serpent boa qui avalait un <b><u>fauve</u></b>. <br>
-avalait (avaler)	{{c1::schlucken}}	Ça représentait un serpent boa qui <b><u>avalait</u></b> un fauve. <br>
-pieds (pied)	{{c1::Fu�}}	Je réalisai que j’avais dormi avec mes baskets aux <b><u>pieds</u></b>, ce qui était finalement parfait. —  Ils.. ils… Il bégayait. <br>
-courant (courant)	{{c1::Strom}}	Alex arriva en <b><u>courant</u></b> vers moi. <br>
-grimaçai (grimacer)	{{c1::Grimasse}}	Je <b><u>grimaçai</u></b> sous le bruit. <br>
-sous (sous)	{{c1::unter}}	Je grimaçai <b><u>sous</u></b> le bruit. <br>
-bruit (bruit)	{{c1::L�rm}}	Je grimaçai sous le <b><u>bruit</u></b>. <br>
-forts (fort)	{{c1::stark}}	Les cris reprirent, plus proches, plus <b><u>forts</u></b>, plus aigus. <br>
-aigus (aigu)	{{c1::akut}}	Les cris reprirent, plus proches, plus forts, plus <b><u>aigus</u></b>. <br>
-reprirent (reprendre)	{{c1::weitermachen}}	Les cris <b><u>reprirent</u></b>, plus proches, plus forts, plus aigus. <br>
-néanmoins (néanmoins)	{{c1::Dennoch}}	Elle me resta dans la main mais s’ouvrit <b><u>néanmoins</u></b>. <br>
-la (la)	{{c1::das}}	Je m’en extirpai, atteignis l’entrée de <b><u>la</u></b> tente, attrapai <b><u>la</u></b> fermeture éc<b><u>la</u></b>ir et <b><u>la</u></b> tirai. <br>
-main (main)	{{c1::Hand}}	Elle me resta dans la <b><u>main</u></b> mais s’ouvrit néanmoins. <br>
-resta (rester)	{{c1::bleibe}}	Elle me <b><u>resta</u></b> dans la main mais s’ouvrit néanmoins. <br>
-tirai (tirer)	{{c1::schie�en}}	Je m’en extirpai, atteignis l’entrée de la tente, attrapai la fermeture éclair et la <b><u>tirai</u></b>. <br>
-éclair (éclair)	{{c1::Hell}}	Je m’en extirpai, atteignis l’entrée de la tente, attrapai la fermeture <b><u>éclair</u></b> et la tirai. <br>
-fermeture éclair (fermeture éclair)	{{c1::Rei�verschluss}}	Je m’en extirpai, atteignis l’entrée de la tente, attrapai la <b><u>fermeture éclair</u></b> et la tirai. <br>
-fermeture (fermeture)	{{c1::Schlie�en}}	Je m’en extirpai, atteignis l’entrée de la tente, attrapai la <b><u>fermeture</u></b> éclair et la tirai. <br>
-attrapai (attraper)	{{c1::fangen}}	Je m’en extirpai, atteignis l’entrée de la tente, <b><u>attrapai</u></b> la fermeture éclair et la tirai. <br>
-atteignis (atteindre)	{{c1::erreichen}}	Je m’en extirpai, <b><u>atteignis</u></b> l’entrée de la tente, attrapai la fermeture éclair et la tirai. <br>
-extirpai (extirper)	{{c1::auswurzeln}}	Je m’en <b><u>extirpai</u></b>, atteignis l’entrée de la tente, attrapai la fermeture éclair et la tirai. <br>
-sac de couchage (sac de couchage)	{{c1::Schlafsack}}	Je me levai en sursaut, empêtrée dans mon <b><u>sac de couchage</u></b>. <br>
-sursaut (sursaut)	{{c1::erschrecken}}	Je me levai en <b><u>sursaut</u></b>, empêtrée dans mon sac de couchage. <br>
-réveillèrent (réveiller)	{{c1::aufwachen}}	 KACY Des cris stridents déchirèrent l’air et me <b><u>réveillèrent</u></b> immédiatement. <br>
-déchirèrent (déchirer)	{{c1::rei�en}}	 KACY Des cris stridents <b><u>déchirèrent</u></b> l’air et me réveillèrent immédiatement. <br>
+long (long)	{{c1::lange}}	Je m’efforçai donc d’en savoir plus <b><u>long</u></b> : –    D’où viens-tu, mon petit bonhomme ? <br>
+intrigué (intrigue)	{{c1::Handlung}}	Vous imaginez combien j’avais pu être <b><u>intrigué</u></b> par cette demi-confidence sur « les autres planètes ». <br>
+trésor (trésor)	{{c1::Schatz}}	Puis, sortant mon mouton de sa poche, il se plongea dans la contem- plation de son <b><u>trésor</u></b>. <br>
+efforçai (efforcer)	{{c1::streben}}	Je m’<b><u>efforçai</u></b> donc d’en savoir plus long : –    D’où viens-tu, mon petit bonhomme ? <br>
+confidence (confidence)	{{c1::Vertrauen}}	Vous imaginez combien j’avais pu être intrigué par cette demi-<b><u>confidence</u></b> sur « les autres planètes ». <br>
+plongea (plonger)	{{c1::tauchen}}	Puis, sortant mon mouton de sa poche, il se <b><u>plongea</u></b> dans la contem- plation de son trésor. <br>
+Puis (puis)	{{c1::dann}}	<b><u>Puis</u></b>, sortant mon mouton de sa poche, il se plongea dans la contem- plation de son trésor. <br>
+sortant (sortant)	{{c1::ausgehen}}	Puis, <b><u>sortant</u></b> mon mouton de sa poche, il se plongea dans la contem- plation de son trésor. <br>
+rêverie (rêverie)	{{c1::Träumereien}}	Il hochait la tête doucement tout en regardant mon avion : –    C’est vrai que, là-dessus, tu ne peux pas venir de bien loin… Et il s’enfonça dans une <b><u>rêverie</u></b> qui dura longtemps. <br>
+enfonça (enfoncer)	{{c1::einpressen}}	Il hochait la tête doucement tout en regardant mon avion : –    C’est vrai que, là-dessus, tu ne peux pas venir de bien loin… Et il s’<b><u>enfonça</u></b> dans une rêverie qui dura longtemps. <br>
+dessus (dessus)	{{c1::über}}	Il hochait la tête doucement tout en regardant mon avion : –    C’est vrai que, là-<b><u>dessus</u></b>, tu ne peux pas venir de bien loin… Et il s’enfonça dans une rêverie qui dura longtemps. <br>
+loin (loin)	{{c1::weit}}	Il hochait la tête doucement tout en regardant mon avion : –    C’est vrai que, là-dessus, tu ne peux pas venir de bien <b><u>loin</u></b>… Et il s’enfonça dans une rêverie qui dura longtemps. <br>
+hochait (hocher)	{{c1::nicken}}	Il <b><u>hochait</u></b> la tête doucement tout en regardant mon avion : –    C’est vrai que, là-dessus, tu ne peux pas venir de bien loin… Et il s’enfonça dans une rêverie qui dura longtemps. <br>
+mystère (mystère)	{{c1::Geheimnis}}	J’entrevis aussitôt une lueur, dans le <b><u>mystère</u></b> de sa pré- sence, et j’interrogeai brusquement : –    Tu viens donc d’une autre planète ? <br>
+lueur (lueur)	{{c1::glühen}}	J’entrevis aussitôt une <b><u>lueur</u></b>, dans le mystère de sa pré- sence, et j’interrogeai brusquement : –    Tu viens donc d’une autre planète ? <br>
+aussitôt (aussitôt)	{{c1::sofort}}	J’entrevis <b><u>aussitôt</u></b> une lueur, dans le mystère de sa pré- sence, et j’interrogeai brusquement : –    Tu viens donc d’une autre planète ? <br>
+entrevis (entrevoir)	{{c1::Blick}}	J’<b><u>entrevis</u></b> aussitôt une lueur, dans le mystère de sa pré- sence, et j’interrogeai brusquement : –    Tu viens donc d’une autre planète ? <br>
+ajouta (ajouter)	{{c1::hinzufügen}}	Puis il <b><u>ajouta</u></b> : –    Alors, toi aussi tu viens du ciel ! <br>
+malheurs (malheur)	{{c1::Unglück}}	Je désire que l’on prenne mes <b><u>malheurs</u></b> au sérieux. <br>
+éclat (éclat)	{{c1::scheinen}}	ça c’est drôle… Et le petit prince eut un très joli <b><u>éclat</u></b> de rire qui m’irrita beaucoup. <br>
+modestement (modestement)	{{c1::bescheiden}}	tu es tombé du ciel ? –    Oui, fis-je <b><u>modestement</u></b>. –    Ah ! <br>
+fier (fier)	{{c1::stolz}}	Et j’étais <b><u>fier</u></b> de lui apprendre que je volais. <br>
+aperçut (apercevoir)	{{c1::sehen}}	Ainsi, quand il <b><u>aperçut</u></b> pour la première fois mon avion (je ne dessinerai pas mon avion, c’est un dessin beaucoup trop compliqué pour moi) il me demanda : –    Qu’est-ce que c’est que cette chose-là ? –    Ce n’est pas une chose. <br>
+peu (peu)	{{c1::wenig}}	Ce sont des mots prononcés par hasard qui, <b><u>peu</u></b> à <b><u>peu</u></b>, m’ont tout révélé. <br>
+révélé (révélé)	{{c1::aufgedeckt}}	Ce sont des mots prononcés par hasard qui, peu à peu, m’ont tout <b><u>révélé</u></b>. <br>
+une (une)	{{c1::ein}}	J’entrevis aussitôt <b><u>une</u></b> lueur, dans le mystère de sa pré- sence, et j’interrogeai brusquement : –    Tu viens donc d’<b><u>une</u></b> autre planète ? <br>
+prononcés (prononcer)	{{c1::aussprechen}}	Ce sont des mots <b><u>prononcés</u></b> par hasard qui, peu à peu, m’ont tout révélé. <br>
+hasard (hasard)	{{c1::Gefahr}}	Ce sont des mots prononcés par <b><u>hasard</u></b> qui, peu à peu, m’ont tout révélé. <br>

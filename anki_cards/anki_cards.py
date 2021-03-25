@@ -1,4 +1,6 @@
 import re
+import tkinter as tk
+from tkinter import filedialog
 from deep_translator import (GoogleTranslator,
                              MicrosoftTranslator,
                              PonsTranslator,
@@ -11,21 +13,28 @@ from deep_translator import (GoogleTranslator,
                              batch_detection)
 translator = GoogleTranslator(source="french", target="german")
 
+
+def open_file():
+    root = tk.Tk()
+    root.withdraw()
+
+    return filedialog.askopenfilename()
+
 def translate(text):
-    translated = translator.translate(text, return_all=True)
-    return translated
+    return translator.translate(text, return_all=True)
 
 def translate_batch(batch):
     translated = translator.translate_batch(batch)
     return translated
 
 def read_file(file):
-    fin = open(file, "rt")
-    fout = open("out.txt", "wt")
+    fin = open(file, "rt", encoding='utf-8')
+    fout = open("out.txt", "wt", encoding='utf-8')
     for line in fin:
         index = line.index("\t")
         try:
             to_translate = re.search(r'\((.*?)\)', line).group(1)
+            print(f"translating {to_translate}...")
             translated = translate(to_translate)
             clozed = f"{{{{c1::{translated}}}}}"
             fout.write(f"{line[:index+1]}{clozed}{line[index:]}")
@@ -34,5 +43,10 @@ def read_file(file):
 
     fin.close()
     fout.close()
+    
 
-read_file("PetitPrince_1_2.txt")
+def main():
+    read_file(open_file())
+
+if __name__ == "__main__":
+    main()
